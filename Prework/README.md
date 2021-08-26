@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most difficult part about completing this project was using version control and gitHub to post the code.
 
 ## License
 
