@@ -16,6 +16,7 @@
 		CFCB720B2710B16800CE51E2 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCB720A2710B16800CE51E2 /* LoginViewController.swift */; };
 		CFCB720D2710E7AF00CE51E2 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCB720C2710E7AF00CE51E2 /* HomeTableViewController.swift */; };
 		CFCB720F27128F6B00CE51E2 /* TweetTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCB720E27128F6B00CE51E2 /* TweetTableViewCell.swift */; };
+		CFE35E522714F01D000617A8 /* TweetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFE35E512714F01D000617A8 /* TweetViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		CFCB720A2710B16800CE51E2 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		CFCB720C2710E7AF00CE51E2 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
 		CFCB720E27128F6B00CE51E2 /* TweetTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetTableViewCell.swift; sourceTree = "<group>"; };
+		CFE35E512714F01D000617A8 /* TweetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TweetViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				CFCB720A2710B16800CE51E2 /* LoginViewController.swift */,
 				CFCB720C2710E7AF00CE51E2 /* HomeTableViewController.swift */,
 				CFCB720E27128F6B00CE51E2 /* TweetTableViewCell.swift */,
+				CFE35E512714F01D000617A8 /* TweetViewController.swift */,
 			);
 			path = Twitter;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 			files = (
 				CFCB720D2710E7AF00CE51E2 /* HomeTableViewController.swift in Sources */,
 				CFCB720B2710B16800CE51E2 /* LoginViewController.swift in Sources */,
+				CFE35E522714F01D000617A8 /* TweetViewController.swift in Sources */,
 				6EBCF54421E047A500451C03 /* TwitterAPICaller.swift in Sources */,
 				CFCB720F27128F6B00CE51E2 /* TweetTableViewCell.swift in Sources */,
 				6EBCF52621DF07FC00451C03 /* AppDelegate.swift in Sources */,
