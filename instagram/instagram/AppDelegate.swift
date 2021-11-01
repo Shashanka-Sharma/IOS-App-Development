@@ -8,6 +8,7 @@
 import UIKit
 import Parse
 
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -20,7 +21,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                     $0.clientKey = "5r2gGx32mxFJRFGzpPvJMBe6A4bhV1bJ3cEgPD6i" // <- UPDATE
                     $0.server = "https://parseapi.back4app.com"
             }
-            Parse.initialize(with: parseConfig)
+        Parse.initialize(with: parseConfig)
+        
         return true
     }
 
