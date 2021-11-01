@@ -24,6 +24,8 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        commentBar.delegate = self
+        
         tableView.delegate = self
         tableView.dataSource = self
         
